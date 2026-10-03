@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Hassan Shahzad 👋</h1>
+<h1 align="center">Hey there, I'm Hassan Shahzad</h1>
 
 <p align="center">
   <strong>Software Engineer · Generative AI &amp; LLMs · Retrieval-Augmented Generation</strong>
@@ -22,18 +22,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a software engineer focused on **Generative AI, LLMs, and Retrieval-Augmented Generation**. I build and evaluate AI systems end-to-end — from agentic RAG pipelines and LLM fine-tuning to automated testing and evaluation harnesses for frontier models.
 
-- 🔭 Currently working with **agentic RAG**, **hybrid retrieval**, and **LLM evaluation**
-- 🧪 Experienced in benchmarking outputs from **Google Gemini, Anthropic Claude, and DeepSeek**
-- 🛠️ Comfortable across the stack: **PyTorch · Hugging Face · LangGraph · FastAPI · Docker**
-- 🎓 B.CS at the Institute of Management Sciences, Peshawar (2022 – 2026)
+- Currently working with **agentic RAG**, **hybrid retrieval**, and **LLM evaluation**
+- Experienced in benchmarking outputs from **Google Gemini, Anthropic Claude, and DeepSeek**
+- Comfortable across the stack: **PyTorch · Hugging Face · LangGraph · FastAPI · Docker**
+- B.CS at the Institute of Management Sciences, Peshawar (2022 – 2026)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [HF Docs Agent](https://github.com/mirha55an/hf-docs-agent) — Agentic RAG over Hugging Face docs
 
@@ -97,7 +97,7 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 ---
 
 <details>
-<summary><b>📁 Other repositories</b></summary>
+<summary><b>Other repositories</b></summary>
 
 <br>
 
@@ -109,11 +109,11 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table>
 <tr>
-<td><b>🧠 Generative AI &amp; LLMs</b></td>
+<td><b>Generative AI &amp; LLMs</b></td>
 <td>
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
@@ -130,7 +130,7 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 </td>
 </tr>
 <tr>
-<td><b>⚙️ Machine Learning</b></td>
+<td><b>Machine Learning</b></td>
 <td>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -143,7 +143,7 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 </td>
 </tr>
 <tr>
-<td><b>🌐 Backend &amp; Deployment</b></td>
+<td><b>Backend &amp; Deployment</b></td>
 <td>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -155,7 +155,7 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 </td>
 </tr>
 <tr>
-<td><b>💻 Languages</b></td>
+<td><b>Languages</b></td>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -166,7 +166,7 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 </td>
 </tr>
 <tr>
-<td><b>🧰 Developer Tools</b></td>
+<td><b>Developer Tools</b></td>
 <td>
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -181,7 +181,7 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 
 ---
 
-## 💼 Experience &amp; Education
+## Experience &amp; Education
 
 **LLM Evaluation Engineer** · _Turing_ · Aug 2025 – Dec 2025 _(Remote)_
 
@@ -195,5 +195,5 @@ A document intelligence chatbot that answers questions about PDFs and images usi
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Building%20with%20LLMs%20and%20RAG-7C3AED?style=for-the-badge" alt="Building with LLMs and RAG">
+  <img src="https://img.shields.io/badge/Building%20with%20LLMs%20and%20RAG-7C3AED?style=for-the-badge" alt="Building with LLMs and RAG">
 </p>
